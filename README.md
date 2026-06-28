@@ -1,4 +1,5 @@
-<h1 align="center">Old Phone, New Trick: How I Turned a Samsung S8 Into a Simultaneous Interpreter</h1>
+<h1 align="center">Old Phone, New Trick:
+  How I Turned a Samsung S8 Into a Simultaneous Interpreter</h1>
 
 > Also published on LinkedIn: [Old Phone, New Trick: How I Turned My Samsung S8 Into a Simultaneous Interpreter](https://www.linkedin.com/pulse/old-phone-new-trick-how-i-turned-my-samsung-s8-slava-ponomarev-70sdc/)
 
