@@ -2,9 +2,11 @@
 
 > Also published on LinkedIn: [Old Phone, New Trick: How I Turned My Samsung S8 Into a Simultaneous Interpreter](https://www.linkedin.com/pulse/old-phone-new-trick-how-i-turned-my-samsung-s8-slava-ponomarev-70sdc/)
 
-![Setup: Samsung S8 with TRRS splitter connected](assets/setup.jpg)
-
-[Demo video](assets/demo.mp4)
+<p align="center">
+  <a href="assets/demo.mp4"><img src="assets/setup.jpg" alt="Setup: Samsung S8 with TRRS splitter connected" width="640"></a>
+  <br/>
+  <em>▶ Click the image to watch the demo</em>
+</p>
 
 ---
 
@@ -112,14 +114,14 @@ adb shell am broadcast \
 
 ### All Repositories
 
-```
-Magisk:           github.com/topjohnwu/Magisk
-Riru:             github.com/RikkaApps/Riru
-EdXposed:         github.com/ElderDrivers/EdXposed
-EdXposed Manager: github.com/ElderDrivers/EdXposedManager
-Mic module:       github.com/anton-arnold/xoverrideheadphonejackdetection
-TWRP for S8:      twrp.me/samsung/samsunggalaxys8.html
-```
+| Component | Link |
+|-----------|------|
+| Magisk (root) | https://github.com/topjohnwu/Magisk |
+| Riru (dependency) | https://github.com/RikkaApps/Riru |
+| EdXposed (framework) | https://github.com/ElderDrivers/EdXposed |
+| EdXposed Manager | https://github.com/ElderDrivers/EdXposedManager |
+| Mic override module | https://github.com/anton-arnold/xoverrideheadphonejackdetection |
+| TWRP for S8 | https://twrp.me/samsung/samsunggalaxys8.html |
 
 ---
 
